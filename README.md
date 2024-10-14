@@ -1,4 +1,3 @@
-# kopichzs-lr4
 import math
 def find_columns(matrix):
 return [i + 1 for i, col in enumerate(zip(*matrix)) 
